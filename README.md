@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Archestrike
-- 👀 I’m interested in coding (bet you never saw that one coming)
+- 👀 I’m interested in coding (crazy right?)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 Archestrike#3578
